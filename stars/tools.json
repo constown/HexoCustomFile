@@ -1,0 +1,73 @@
+[
+  {
+    "nickname": "智图",
+    "site": "https://zhitu.isux.us/",
+    "content": "腾讯ISUX前端团队开发的一个专门用于图片压缩和图片格式转换的平台"
+  },
+  {
+    "nickname": "程序员的工具箱",
+    "site": "https://tool.lu/",
+    "content": "站长工具、代码格式化、压缩、加密、解密、下载链接转换等"
+  },
+  {
+    "nickname": "OSCHINA.NET社区",
+    "site": "https://tool.oschina.net/",
+    "content": "常用文档、常用对照表、代码处理、Html/Js/Css工具、加密/转码工具等"
+  },
+  {
+    "nickname": "记磊工具箱",
+    "site": "https://tools.ly522.com/",
+    "content": "Dns检测、CSS格式化、超级Ping、端口扫描等"
+  },
+  {
+    "nickname": "孟坤工具箱",
+    "site": "http://tool.mkblog.cn/",
+    "content": "css一键美化、文本差异比较、代码高亮等"
+  },
+  {
+    "nickname": "Text to ASCII",
+    "site": "http://patorjk.com/software/taag/",
+    "content": "Text to ASCII Art Generator，字符串转成 ASCII 码图案"
+  },
+  {
+    "nickname": "临时邮箱",
+    "site": "https://linshiyouxiang.net/",
+    "content": "匿名注册不常用的网站/论坛，保护隐私免骚扰"
+  },
+  {
+    "nickname": "TinyPNG",
+    "site": "https://tinypng.com/",
+    "content": "PNG/JPG图片在线压缩利器"
+  },
+  {
+    "nickname": "图片格式在线转换",
+    "site": "https://ezgif.com/png-to-webp",
+    "content": "webp图片格式在线转换"
+  },
+  {
+    "nickname": "SVGOMG",
+    "site": "https://jakearchibald.github.io/svgomg/",
+    "content": "SVG在线压缩平台"
+  },
+  {
+    "nickname": "Loading",
+    "site": "https://loading.io/",
+    "content": "制作GIF、SVG、CSS加载动画图标"
+  },
+  {
+    "nickname": "Preloaders",
+    "site": "https://www.logaster.cn/",
+    "content": "Loading 懒加载动画在线制作"
+  },
+  {
+    "nickname": "移除图片背景",
+    "site": "https://www.remove.bg/",
+    "content": "一键智能抠图"
+  },
+  {
+    "nickname": "KMS服务",
+    "site": "https://kms.avg.cx/",
+    "content": "KMS激活Windows一键脚本"
+  }
+]
+

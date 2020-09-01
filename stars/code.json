@@ -1,0 +1,49 @@
+[
+  {
+    "nickname": "Github",
+    "site": "https://github.com/",
+    "content": "全球最大的面向开源及私有软件项目的托管平台"
+  },
+  {
+    "nickname": "Gitlab",
+    "site": "https://gitlab.com/",
+    "content": "支持无限的公有项目和私有项目的代码托管平台"
+  },
+  {
+    "nickname": "Coding",
+    "site": "https://coding.net/",
+    "content": "国内首个一站式云端软件服务平台"
+  },
+  {
+    "nickname": "Gitee",
+    "site": "https://gitee.com/",
+    "content": "国内最大的开源社区 OSChina 的代码托管平台"
+  },
+  {
+    "nickname": "阿里云代码托管",
+    "site": "https://code.aliyun.com/",
+    "content": "阿里云旗下代码托管平台"
+  },
+  {
+    "nickname": "百度效率云",
+    "site": "http://xiaolvyun.baidu.com/",
+    "content": "百度云旗下的 Git 代码托管平台"
+  },
+  {
+    "nickname": "SourceForge",
+    "site": "https://sourceforge.net/",
+    "content": "又称 SF.net，是开源软件开发者进行开发管理的集中式场所"
+  },
+  {
+    "nickname": "Bitbucket",
+    "site": "https://bitbucket.org/",
+    "content": "同时支持 Git 和 Mercurial 这两个版本控制软件，免费的私有仓库，支持5人以内的合作开发"
+  },
+  {
+    "nickname": "npm",
+    "site": "https://www.npmjs.com/",
+    "content": "JavaScript 世界的包管理工具,并且是 Node.js 平台的默认包管理工具。通过 npm 可以安装、共享、分发代码,管理项目依赖关系"
+  }
+]
+
+

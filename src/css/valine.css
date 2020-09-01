@@ -1,0 +1,10 @@
+/* 隐藏valine评论的系统信息 */
+.v[data-class=v] .txt-right {
+  text-align: right;
+  display: none;
+}
+
+.vsys{
+  display:none !important;
+}
+

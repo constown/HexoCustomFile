@@ -1,0 +1,77 @@
+[
+  {
+    "nickname": "Stack Overflow",
+    "site": "https://stackoverflow.com/",
+    "content": "全球最受程序员欢迎的开发社区"
+  },
+  {
+    "nickname": "CSDN",
+    "site": "https://www.csdn.net/",
+    "content": "全球最大中文IT社区，为IT专业技术人员提供最全面的信息传播和服务平台"
+  },
+  {
+    "nickname": "博客园",
+    "site": "https://www.cnblogs.com",
+    "content": "代码改变世界"
+  },
+  {
+    "nickname": "V2EX",
+    "site": "https://www.v2ex.com/",
+    "content": "V2EX = way to explore"
+  },
+  {
+    "nickname": "掘金",
+    "site": "https://juejin.im/",
+    "content": "一个帮助开发者成长的社区"
+  },
+  {
+    "nickname": "SegmentFault",
+    "site": "https://segmentfault.com/",
+    "content": "改变并提升人们获取知识的方式和效率，帮助更多的开发者获得成长与成功"
+  },
+  {
+    "nickname": "开源中国",
+    "site": "https://www.oschina.net/",
+    "content": "国内最大的开源技术社区"
+  },
+  {
+    "nickname": "ITeye",
+    "site": "https://www.iteye.com/",
+    "content": "ITeye软件开发交流社区 - Java编程 Spring框架 Ajax技术 agile敏捷软件开发 ruby on rails实践"
+  },
+  {
+    "nickname": "51CTO",
+    "site": "https://www.51cto.com/",
+    "content": "技术成就梦想"
+  },
+  {
+    "nickname": "ITPUB",
+    "site": "http://www.itpub.net/",
+    "content": "全球最大的学习分享平台"
+  },
+  {
+    "nickname": "知乎",
+    "site": "https://www.zhihu.com/",
+    "content": "国内最受欢迎的知识性问答社区"
+  },
+  {
+    "nickname": "简书",
+    "site": "https://www.jianshu.com/",
+    "content": "创作你的创作"
+  },
+  {
+    "nickname": "云+社区",
+    "site": "https://cloud.tencent.com/developer",
+    "content": "来自腾讯的开发者技术分享社区"
+  },
+  {
+    "nickname": "云栖社区",
+    "site": "https://yq.aliyun.com/",
+    "content": "阿里云面向开发者的开放型技术平台"
+  },
+  {
+    "nickname": "极术社区",
+    "site": "https://aijishu.com/",
+    "content": "全球软硬件资源信息，只要你有问题，我们就能解答。"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "nickname": "菜鸟教程",
+    "site": "https://www.runoob.com/",
+    "content": "提供了编程的基础技术教程, 介绍了HTML、CSS、Javascript、Python，Java，Ruby，C，PHP , MySQL等各种编程语言的基础知识"
+  },
+  {
+    "nickname": "W3school",
+    "site": "https://www.w3school.com.cn/",
+    "content": "领先的 Web 技术教程"
+  },
+  {
+    "nickname": "前端网",
+    "site": "http://www.qianduandaxue.com/",
+    "content": "最好的自学web前端网站"
+  }
+]

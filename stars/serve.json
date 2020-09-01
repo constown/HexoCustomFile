@@ -1,0 +1,37 @@
+[
+  {
+    "nickname": "阿里云",
+    "site": "https://www.aliyun.com/",
+    "content": "为了无法计算的价值"
+  },
+  {
+    "nickname": "腾讯云",
+    "site": "https://cloud.tencent.com/",
+    "content": "产业智变 云启未来"
+  },
+  {
+    "nickname": "百度云",
+    "site": "https://cloud.baidu.com/",
+    "content": "计算无限可能"
+  },
+  {
+    "nickname": "七牛云",
+    "site": "https://www.qiniu.com/",
+    "content": "国内领先的企业级云服务商"
+  }, 
+  {
+    "nickname": "又拍云",
+    "site": "https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral",
+    "content": "专注 CDN、云存储、小程序开发方案、 短视频开发方案、DDoS高防等产品的国内知名企业级云服务商"
+  },
+  {
+    "nickname": "Cloudflare",
+    "site": "https://www.cloudflare.com/",
+    "content": "网络性能和安全公司"
+  },
+  {
+    "nickname": "jsDelivr",
+    "site": "https://www.jsdelivr.com/",
+    "content": "A free, fast, and reliable Open Source CDN for npm and GitHub"
+  }
+]

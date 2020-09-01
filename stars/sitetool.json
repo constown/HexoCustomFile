@@ -1,0 +1,47 @@
+[
+  {
+    "nickname": "百度站长平台",
+    "site": "https://ziyuan.baidu.com/",
+    "content": "百度搜索资源平台 - 让网站更具价值"
+  },
+  {
+    "nickname": "Google 站长平台",
+    "site": "http://www.google.cn/webmasters/",
+    "content": "支持、学习、互动交流和 Search Console – Google"
+  },
+  {
+    "nickname": "Bing 网站管理员工具",
+    "site": "https://www.bing.com/toolbox/webmaster/",
+    "content": "Bing 网站管理员工具"
+  },
+  {
+    "nickname": "站长工具 - 站长之家",
+    "site": "http://tool.chinaz.com/",
+    "content": "SEO工具,权重查询,收录查询,PR查询,ICP备案查询,whois查询,友情链接查询,反向链接查询,网站测试,IP查询,Alexa查询"
+  },
+  {
+    "nickname": "搜狗站长平台",
+    "site": "http://zhanzhang.sogou.com/",
+    "content": "全面掌握在搜狗搜索中的数据表现"
+  },
+  {
+    "nickname": "360 站长平台",
+    "site": "http://zhanzhang.so.com/",
+    "content": "给网站带来更多流量和展现"
+  },
+  {
+    "nickname": "超级 SEO 外链工具",
+    "site": "https://tool.lusongsong.com/seo/",
+    "content": "网站自动化宣传机器/免费的超级外链工具可批量增加外链"
+  },
+  {
+    "nickname": "域名备案管理系统",
+    "site": "http://www.beian.miit.gov.cn/",
+    "content": "工业和信息化部ICP/IP地址/域名信息备案管理系统"
+  },
+  {
+    "nickname": "公安备案网",
+    "site": "http://beian.gov.cn/",
+    "content": "全国互联网安全管理服务平台"
+  }
+]

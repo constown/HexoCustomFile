@@ -1,0 +1,57 @@
+[
+  {
+    "nickname": "LeetCode",
+    "site": "https://leetcode-cn.com/",
+    "content": "全球极客挚爱的技术成长平台"
+  },
+  {
+    "nickname": "Topcoder",
+    "site": "https://www.topcoder.com/",
+    "content": "全世界规模最大的程序竞赛网站，也会有一些算法竞赛，适合一些高端的或者搞ACM的，也会举办一些比赛"
+  },
+  {
+    "nickname": "Codeforces",
+    "site": "http://codeforces.com/",
+    "content": "罗斯最大的算法比赛网站"
+  },
+  {
+    "nickname": "Hihocoder",
+    "site": "http://www.hihocoder.com/",
+    "content": "技术团队来自原北京大学POJ (PKU Online Judge)开发团队，收集了全球范围内很多地区、高校举办的比赛试题， 提供365天*24小时的在线提交、评判程序的服务"
+  },
+  {
+    "nickname": "LintCode",
+    "site": "https://www.lintcode.com/",
+    "content": "被称作中文版的leetcode，也是可以做为编程能力提升的一个中转站"
+  },
+  {
+    "nickname": "SPOJ",
+    "site": "https://www.spoj.com/",
+    "content": "波兰的算法刷题网站"
+  },
+  {
+    "nickname": "NEUQ OJ",
+    "site": "http://acmclub.cn/",
+    "content": "一个在线的判题平台"
+  },
+  {
+    "nickname": "洛谷",
+    "site": "https://www.luogu.com.cn/",
+    "content": "创办于2013年，致力于为参加noip、noi、acm的选手提供清爽、快捷的编程体验"
+  },
+  {
+    "nickname": "牛客网",
+    "site": "https://www.nowcoder.com/contestRoom",
+    "content": "中国最大的IT题库"
+  },
+  {
+    "nickname": "计蒜客",
+    "site": "https://nanti.jisuanke.com/oi",
+    "content": "计蒜客OI题库致力于为参加noi、noip、信息学竞赛的选手提供优秀的Online Judge系统"
+  },
+  {
+    "nickname": "C语言网",
+    "site": "https://www.dotcpp.com/oj/contest.html",
+    "content": "在这里可以参加包括ACM、NOI在内的各种C/C++/java程序比赛，也可以DIY举办各类程序比赛活动！"
+  }
+]

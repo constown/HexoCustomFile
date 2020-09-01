@@ -1,0 +1,79 @@
+[
+  {
+    "nickname": "JavaScript",
+    "site": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
+    "content": "JavaScript API 文档"
+  },
+  {
+    "nickname": "HTML",
+    "site": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
+    "content": "HTML API 文档"
+  },
+  {
+    "nickname": "CSS",
+    "site": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
+    "content": "CSS API 文档"
+  },
+  {
+    "nickname": "Python",
+    "site": "https://docs.python.org/",
+    "content": "Python API 文档"
+  },
+  {
+    "nickname": "PHP",
+    "site": "https://www.php.net/manual/zh/index.php",
+    "content": "PHP API 文档"
+  },
+  {
+    "nickname": "SQL",
+    "site": "https://docs.microsoft.com/zh-cn/sql/",
+    "content": "SQL API 文档"
+  },
+  {
+    "nickname": "Node.js",
+    "site": "http://nodejs.cn/",
+    "content": "Node.js API 文档"
+  },
+  {
+    "nickname": "MongoDB",
+    "site": "https://docs.mongodb.com/manual/",
+    "content": "MongoDB API 文档"
+  },
+  {
+    "nickname": "Vue.js",
+    "site": "https://cn.vuejs.org/v2/guide/",
+    "content": "一套用于构建用户界面的渐进式框架。"
+  },
+  {
+    "nickname": "Vuex",
+    "site": "https://vuex.vuejs.org/zh/",
+    "content": "一个专为Vue.js应用程序开发的状态管理模式"
+  },
+  {
+    "nickname": "Vue Router",
+    "site": "https://router.vuejs.org/zh/",
+    "content": "Vue.js官方路由管理器"
+  },
+  {
+    "nickname": "Puppeteer中文文档",
+    "site": "https://zhaoqize.github.io/puppeteer-api-zh_CN/",
+    "content": "一个Node库，它提供了一个高级 API 来通过 DevTools 协议控制 Chromium 或 Chrome。Puppeteer 默认以 headless 模式运行，但是可以通过修改配置文件运行“有头”模式。"
+  },
+  {
+    "nickname": "axios中文文档",
+    "site": "http://www.axios-js.com/",
+    "content": "易用、简洁且高效的http库"
+  },
+  {
+    "nickname": "Express中文文档",
+    "site": "https://www.expressjs.com.cn/",
+    "content": "基于Node.js平台，快速、开放、极简的Web开发框架"
+  },
+  {
+    "nickname": "Layui",
+    "site": "https://www.layui.com/",
+    "content": "经典模块化前端UI框架"
+  }
+]
+
+
